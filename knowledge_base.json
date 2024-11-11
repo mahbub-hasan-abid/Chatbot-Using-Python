@@ -1,0 +1,500 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hello Sir, how are you?"
+    },
+    {
+      "question": "What is Python programming language?",
+      "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability."
+    },
+    {
+      "question": "What are the basic data types in Python?",
+      "answer": "Python has several basic data types, including integers, floats, strings, booleans, and more."
+    },
+    {
+      "question": "How do you declare a variable in Python?",
+      "answer": "You can declare a variable by simply assigning a value to a name, e.g., 'x = 10'."
+    },
+    {
+      "question": "Explain the 'if' statement in Python.",
+      "answer": "The 'if' statement is used for conditional execution. It allows you to execute code blocks based on a condition."
+    },
+    {
+      "question": "What are lists in Python?",
+      "answer": "Lists are ordered collections of items. They can contain elements of different data types."
+    },
+    {
+      "question": "What is a for loop in Python?",
+      "answer": "A 'for' loop is used for iterating over a sequence (e.g., a list, tuple, or string) and executing a block of code for each item."
+    },
+    {
+      "question": "Explain the concept of a function in Python.",
+      "answer": "A function is a reusable block of code that performs a specific task. It can accept parameters and return values."
+    },
+    {
+      "question": "What is Python's standard library?",
+      "answer": "Python's standard library is a collection of modules and packages that provide a wide range of functionality without the need for additional installation."
+    },
+    {
+      "question": "How do you handle exceptions in Python?",
+      "answer": "You can use 'try' and 'except' blocks to handle exceptions and gracefully handle errors in your code."
+    },
+    {
+      "question": "What is the difference between '==' and 'is' in Python?",
+      "answer": "'==' is used to compare the values of two objects, while 'is' is used to check if two objects are the same (i.e., the same object in memory)."
+    },
+    {
+      "question": "How do you define a class in Python?",
+      "answer": "You can define a class using the 'class' keyword, and it can contain attributes and methods."
+    },
+    {
+      "question": "What is the purpose of the 'self' parameter in Python methods?",
+      "answer": "The 'self' parameter refers to the instance of the class and is used to access class attributes and methods within the class."
+    },
+    {
+      "question": "What is a virtual environment in Python?",
+      "answer": "A virtual environment is a self-contained Python environment that allows you to manage dependencies and isolate projects."
+    },
+    {
+      "question": "How do you install external packages in Python?",
+      "answer": "You can use the 'pip' tool to install external packages, e.g., 'pip install package-name'."
+    },
+    {
+      "question": "What is a lambda function in Python?",
+      "answer": "A lambda function is a small, anonymous function defined using the 'lambda' keyword. It can take any number of arguments but can only have one expression."
+    },
+    {
+      "question": "Can u learn from yourself",
+      "answer": "I am not sure I can try"
+    },
+    {
+      "question": "",
+      "answer": "A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc"
+    },
+    {
+      "question": "",
+      "answer": "A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc"
+    },
+    {
+      "question": "",
+      "answer": "A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc"
+    },
+    {
+      "question": "",
+      "answer": "A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc"
+    },
+    {
+      "question": "",
+      "answer": "A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc"
+    },
+    {
+      "question": "Who are you",
+      "answer": "I am an AI bot  created by Mahbub, do you need any help?"
+    },
+    {
+      "question": "How I can feed you more data",
+      "answer": "I have to learn "
+    },
+    {
+      "question": "I am fine and you?",
+      "answer": "I am also fine, what do you need ,Sir?"
+    },
+    {
+      "question": "I want to know about python",
+      "answer": "Of course ,Sir . What do you want to know?"
+    },
+    {
+      "question": "What is variable",
+      "answer": "A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc."
+    },
+    {
+      "question": "What are tuples in Python?",
+      "answer": "Tuples are immutable sequences in Python, used to store collections of heterogeneous data."
+    },
+    {
+      "question": "How do you handle file operations in Python?",
+      "answer": "File operations in Python are handled using the built-in 'open' function, along with methods like 'read()', 'write()', and 'close()'."
+    },
+    {
+      "question": "Explain decorators in Python.",
+      "answer": "Decorators in Python are a design pattern that allows you to modify the behavior of a function or class. They are used with the '@' symbol."
+    },
+    {
+      "question": "What is the difference between Java and Python in terms of syntax?",
+      "answer": "Java is statically typed and has a more verbose syntax, requiring explicit variable type declaration. Python is dynamically typed with a simpler and more readable syntax."
+    },
+    {
+      "question": "What are Python's list comprehensions?",
+      "answer": "List comprehensions provide a concise way to create lists. It consists of brackets containing an expression followed by a 'for' clause, then zero or more 'for' or 'if' clauses."
+    },
+    {
+      "question": "How does garbage collection work in Python?",
+      "answer": "Python uses automatic memory management and garbage collection. Objects are automatically destroyed when they are no longer needed to free up memory."
+    },
+    {
+      "question": "Explain the concept of inheritance in object-oriented programming.",
+      "answer": "Inheritance is a feature of object-oriented programming that allows a class to inherit attributes and methods from another class, enabling code reuse and complexity reduction."
+    },
+    {
+      "question": "What is a REST API?",
+      "answer": "REST API is an application programming interface that uses HTTP requests for communication with web services. It allows different systems to communicate over the internet."
+    },
+    {
+      "question": "How do you manage state in React?",
+      "answer": "State in React is managed within components using the useState hook for functional components or state property in class components."
+    },
+    {
+      "question": "What are the differences between SQL and NoSQL databases?",
+      "answer": "SQL databases are structured, use a schema, and are ideal for complex queries. NoSQL databases are more flexible, schema-less, and are better for hierarchical data storage and quick operations."
+    },
+    {
+      "question": "What is Agile Software Development?",
+      "answer": "Agile software development is an approach that values adaptability to changing requirements and continuous improvement through iterative development cycles."
+    },
+    {
+      "question": "How do you implement polymorphism in Java?",
+      "answer": "Polymorphism in Java is implemented through method overriding, where a subclass provides a specific implementation of a method already declared in its superclass."
+    },
+    {
+      "question": "What is the use of 'async' and 'await' in JavaScript?",
+      "answer": "'async' and 'await' are used for asynchronous programming in JavaScript. They allow handling asynchronous operations more comfortably using promises."
+    },
+    {
+      "question": "What are microservices in software architecture?",
+      "answer": "Microservices are a software architectural style that structures an application as a collection of loosely coupled services, improving modularity and scalability."
+    },
+    {
+      "question": "Explain the Model-View-Controller (MVC) framework.",
+      "answer": "MVC is a design pattern used in software development. It separates an application into three interconnected components: the model (data), the view (UI), and the controller (business logic)."
+    },
+    {
+      "question": "What is recursion in programming?",
+      "answer": "Recursion is a technique in programming where a function calls itself as a subroutine. This allows the function to be repeated several times, as it can call itself during its execution."
+    },
+    {
+      "question": "How do you manage packages in a Python project?",
+      "answer": "Packages in Python are managed using pip, a package installer for Python. You can install, update, and remove packages using pip."
+    },
+    {
+      "question": "What is a Git branch and how is it used?",
+      "answer": "A Git branch is a separate working area in a Git repository. It allows you to work on different versions of a project simultaneously without affecting the main or 'master' branch."
+    },
+    {
+      "question": "What are Docker containers?",
+      "answer": "Docker containers are lightweight, standalone, executable packages that include everything needed to run a piece of software, including the code, runtime, libraries, and settings."
+    },
+    {
+      "question": "Explain the concept of Continuous Integration (CI).",
+      "answer": "Continuous Integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day."
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a field of artificial intelligence that uses statistical techniques to give computers the ability to 'learn' from data, without being explicitly programmed."
+    },
+    {
+      "question": "How does exception handling work in Java?",
+      "answer": "In Java, exceptions are handled using try, catch, and finally blocks. The try block contains code that might throw an exception, and the catch block handles the exception."
+    },
+    {
+      "question": "What is a primary key in a database?",
+      "answer": "A primary key is a special relational database table column (or combination of columns) designated to uniquely identify all table records."
+    },
+    {
+      "question": "What is the significance of the 'main' method in Java?",
+      "answer": "The 'main' method is the entry point for a Java application. It's where the program starts executing."
+    },
+    {
+      "question": "What are the benefits of using cloud computing?",
+      "answer": "Cloud computing offers several benefits, including scalability, flexibility, cost efficiency, and access to a broad range of services and technologies."
+    },
+    {
+      "question": "What is the difference between synchronous and asynchronous programming?",
+      "answer": "In synchronous programming, tasks are performed one after another, while in asynchronous programming, tasks can run independently and may complete at different times."
+    },
+    {
+      "question": "Explain the concept of encapsulation in object-oriented programming.",
+      "answer": "Encapsulation is a concept in object-oriented programming that bundles the data and the methods that operate on the data into a single unit or class, restricting direct access to some of an object's components."
+    },
+    {
+      "question": "What is a framework in software development?",
+      "answer": "A framework is a platform for developing software applications. It provides a foundation on which software developers can build programs for a specific platform."
+    },
+    {
+      "question": "How do you debug a program in Python?",
+      "answer": "Debugging in Python can be done using various methods, including using print statements, running the code in an interactive debugger like pdb, or using integrated development environment (IDE) tools."
+    },
+    {
+      "question": "What is the use of CSS in web development?",
+      "answer": "CSS (Cascading Style Sheets) is used in web development to describe the presentation of a document written in HTML or XML. It defines how elements should be rendered on screen, on paper, in speech, or on other media."
+    },
+    {
+      "question": "What is an API in programming?",
+      "answer": "API stands for Application Programming Interface. It's a set of rules and protocols for building and interacting with software applications."
+    },
+    {
+      "question": "Explain the concept of inheritance in OOP.",
+      "answer": "Inheritance is an OOP concept where a new class is created from an existing class. The new class inherits the properties and behavior of the parent class."
+    },
+    {
+      "question": "What is a null pointer in programming?",
+      "answer": "A null pointer is a pointer that does not point to any object or function."
+    },
+    {
+      "question": "Describe the MVC architecture.",
+      "answer": "MVC stands for Model-View-Controller. It's a software design pattern for implementing user interfaces. It divides an application into three interconnected components."
+    },
+    {
+      "question": "What is a deadlock in computer science?",
+      "answer": "A deadlock is a situation in concurrent programming where two or more threads are blocked forever, waiting for each other."
+    },
+    {
+      "question": "What is a Docker container?",
+      "answer": "Docker is a platform for developing, shipping, and running applications in containers, which are lightweight, standalone, and secure environments."
+    },
+    {
+      "question": "Explain the use of branches in Git.",
+      "answer": "Branches in Git allow developers to create isolated environments for developing new features, fixing bugs, or safely experimenting with new ideas."
+    },
+    {
+      "question": "What is a neural network in AI?",
+      "answer": "A neural network is a series of algorithms that mimic the operations of a human brain to recognize relationships between vast amounts of data."
+    },
+    {
+      "question": "What is the difference between SQL and NoSQL databases?",
+      "answer": "SQL databases are relational, table-based databases, whereas NoSQL databases can store data in non-relational formats like key-value pairs, wide-column stores, or document-based data."
+    },
+    {
+      "question": "What is Big Data?",
+      "answer": "Big Data refers to extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions."
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing is the delivery of computing services\u00e2\u20ac\u201dincluding servers, storage, databases, networking, software, analytics, and intelligence\u00e2\u20ac\u201dover the Internet ('the cloud') to offer faster innovation, flexible resources, and economies of scale."
+    },
+    {
+      "question": "hi",
+      "answer": "Hello ,Sir. How can I help you?"
+    },
+    {
+      "question": "is there any chances of rain today?",
+      "answer": "Looking at the conditions, there is less chance of raining today."
+    },
+    {
+      "question": "ki",
+      "answer": "What can I do ,Sir?"
+    },
+    {
+      "question": "g",
+      "answer": "Can u say more clearly, Sir?"
+    },
+    {
+      "question": "g",
+      "answer": "can you say more clearly"
+    },
+    {
+      "question": "g",
+      "answer": "Can you elaborate"
+    },
+    {
+      "question": "g",
+      "answer": "?"
+    },
+    {
+      "question": "g",
+      "answer": "?"
+    },
+    {
+      "question": "Tell me about your maker?",
+      "answer": "Mahbub  creates me"
+    },
+    {
+      "question": "Where is his hometown",
+      "answer": "Rajbari"
+    },
+    {
+      "question": "Where is he currently studying? ",
+      "answer": "Currently he is studying at Patuakhali Science and Technology University"
+    },
+    {
+      "question": "What is his Student Id and Registration Id?",
+      "answer": "2002063 and 09580"
+    },
+    {
+      "question": "What is Mahbub's hall name?",
+      "answer": "Sher-E-Bangla Hall 1"
+    },
+    {
+      "question": "What is his blood group?",
+      "answer": "A positive"
+    },
+    {
+      "question": "h",
+      "answer": "Hello"
+    },
+    {
+      "question": "What is his college name?",
+      "answer": "Pangsha Government College"
+    },
+    {
+      "question": "What is his school name?",
+      "answer": "Pangsha Government College"
+    },
+    {
+      "question": "What is his birth date?",
+      "answer": "19 August,2001"
+    },
+    {
+      "question": "Where is his birth place?",
+      "answer": "Rajbari"
+    },
+    {
+      "question": "Who is his favourite teacher?",
+      "answer": "Md Mahbubur Rahman Sir"
+    },
+    {
+      "question": "Tell me his location?",
+      "answer": "Currently Mahbub's location is PSTU,Dumki,Patuakhali"
+    },
+    {
+      "question": "Capital of Bangladesh",
+      "answer": "Dhaka"
+    },
+    {
+      "question": "Capital of Australia",
+      "answer": "Canberra"
+    },
+    {
+      "question": "Who is Mahbub",
+      "answer": "Mahbub is the person who creates me"
+    },
+    {
+      "question": "",
+      "answer": "empty input"
+    },
+    {
+      "question": "no",
+      "answer": "ok thnaks"
+    },
+    {
+      "question": "",
+      "answer": "empty"
+    },
+    {
+      "question": "how is abid",
+      "answer": "nahbub"
+    },
+    {
+      "question": "dhonnobad",
+      "answer": "thank you too"
+    },
+    {
+      "question": "ami vat khabo",
+      "answer": "ok eat rice"
+    },
+    {
+      "question": "I want to buy medicine",
+      "answer": "Sure! Please let me know the name of the medicine you'd like to buy."
+    },
+    {
+      "question": "Paracetamol",
+      "answer": "The price for Paracetamol is 50 Tk. Would you like to add it to your order?"
+    },
+    {
+      "question": "Yes",
+      "answer": "Great! Would you like to add more items to your order? If yes, please provide the name."
+    },
+    {
+      "question": "Napa",
+      "answer": "The price for Napa is 30 Tk. Would you like to confirm both Paracetamol and Napa in your order?"
+    },
+    {
+      "question": "Yes, confirm",
+      "answer": "Got it! Could you please provide your delivery address?"
+    },
+    {
+      "question": "Dhaka, Mirpur",
+      "answer": "Thank you for the address! We deliver to Mirpur. How would you like to pay? We offer cash on delivery, credit card, and bKash payment options."
+    },
+    {
+      "question": "Cash on delivery",
+      "answer": "Perfect! We’ll collect the payment upon delivery. Confirming your order now."
+    },
+    {
+      "question": "Thank you",
+      "answer": "You're welcome! Your order has been successfully placed and will be delivered soon. If you need further assistance, please feel free to ask!"
+    },
+    {
+      "question": "Can I buy another medicine?",
+      "answer": "Of course! Please tell me the name of the additional medicine you need."
+    },
+    {
+      "question": "Metronidazole",
+      "answer": "Metronidazole costs 60 Tk per strip. Would you like to add it to your current order?"
+    },
+    {
+      "question": "I need Cetirizine",
+      "answer": "The price for Cetirizine is 40 Tk. Should I add this to your order?"
+    },
+    {
+      "question": "Yes, add it",
+      "answer": "Got it! We now have Paracetamol, Napa, and Cetirizine in your order. Ready to proceed with confirmation?"
+    },
+    {
+      "question": "Yes, confirm",
+      "answer": "Thank you! Could you please provide your delivery address if you haven't done so already?"
+    },
+    {
+      "question": "Yes, it’s Banani, Dhaka",
+      "answer": "Thank you for the address! We’ll arrange for delivery to Banani, Dhaka. How would you like to handle payment?"
+    },
+    {
+      "question": "bKash",
+      "answer": "Thank you! Please use our bKash number 01234-567890 for payment. Confirm once you've completed the payment."
+    },
+    {
+      "question": "Payment done",
+      "answer": "Thank you! Your order is confirmed and will be delivered soon. If you need more assistance, feel free to ask."
+    },
+    {
+      "question": "Can I get a discount?",
+      "answer": "For large orders, we may offer discounts. Please let us know if you're ordering multiple items, and we’ll confirm any discounts available."
+    },
+    {
+      "question": "Do you have Vitamin C tablets?",
+      "answer": "Yes, we have Vitamin C tablets. The price is 100 Tk per bottle. Would you like to add it to your order?"
+    },
+    {
+      "question": "Yes",
+      "answer": "Perfect! Vitamin C has been added to your order. Ready to proceed to confirmation?"
+    },
+    {
+      "question": "When will my order arrive?",
+      "answer": "Once confirmed, orders within Dhaka are typically delivered within 24 hours. We’ll notify you once it's out for delivery."
+    },
+    {
+      "question": "Can I pay by card?",
+      "answer": "Yes, we accept card payments. Please provide your card details securely to proceed."
+    },
+    {
+      "question": "Is there a delivery fee?",
+      "answer": "For Dhaka, there is a standard delivery fee of 50 Tk. For locations outside Dhaka, delivery fees vary. Would you like a detailed breakdown?"
+    },
+    {
+      "question": "Yes, please",
+      "answer": "For deliveries outside Dhaka, the fee starts at 100 Tk depending on the location. We’ll confirm the exact fee when you provide your address."
+    },
+    {
+      "question": "Do you have any special offers?",
+      "answer": "Yes, we have a 5% discount on orders above 1000 Tk. Would you like to add more items to reach the discount threshold?"
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once dispatched, we’ll provide you with a tracking link or update you via SMS on the delivery status."
+    },
+    {
+      "question": "Thank you!",
+      "answer": "You're very welcome! We're here to help anytime. Have a healthy day ahead!"
+    }
+  ]
+}
